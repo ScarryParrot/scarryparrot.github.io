@@ -1,3 +1,10 @@
+---
+title: HackTheBox - Fluffy
+date: 2025-07-24
+categories: [CTF, HTB]
+tags: [Windows, AD, BloodHound, Certipy, active directory,shadow,shadow creds]
+---
+
 ![Alt text for image](/Images/2025-07-23-hackthebox-fluffy/cover.webp)
 ---
 This was a windows box, rated Easy on HTB, pretty straightforward I would say. Beginning with nmap we found smb service, login with creds that were given , we found a pdf with some listed vulnerabilities. We identified one of the CVE, **CVE-2025-24071**, which resided in .library-ms 
