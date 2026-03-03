@@ -33,8 +33,8 @@ Below are selected write-ups demonstrating practical exploitation and responsibl
 ### Chess.com Disclosure
 **Bounty from Chess.com Membership Logic**  
 151 claps · 2 min read  
-[Read Article](https://medium.com/bugbountywriteup/how-i-turned-membership-into-a-paycheck-a4e90afac2cc?sk=0a9de62ace1fd76a37ee88f9fab723ad)
-[Read Article](https://medium.com/bugbountywriteup/how-i-found-multiple-bugs-on-chess-com-they-refused-1fa6e308ed1f?sk=3718eab3173d7af306b4ec3815a2826d)
+[Read Article - 1](https://medium.com/bugbountywriteup/how-i-turned-membership-into-a-paycheck-a4e90afac2cc?sk=0a9de62ace1fd76a37ee88f9fab723ad)
+[Read Article - 2](https://medium.com/bugbountywriteup/how-i-found-multiple-bugs-on-chess-com-they-refused-1fa6e308ed1f?sk=3718eab3173d7af306b4ec3815a2826d)
 
 ### $125 in 10 Minutes
 **Rapid Vulnerability Discovery & Exploitation**  
