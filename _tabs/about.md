@@ -94,4 +94,4 @@ Below are selected write-ups demonstrating practical exploitation and responsibl
 ---
 
 Full Medium Profile:  
-https://medium.com/@stvroot
+https://medium.com/@stvroot [Profile Link](https://medium.com/@stvroot)
