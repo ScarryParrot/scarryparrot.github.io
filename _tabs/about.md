@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Security Portfolio
 icon: fas fa-shield-alt
 order: 3
 ---
