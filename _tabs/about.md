@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "About Me & My Achievements"
+permalink: /about-my-achievements/
 icon: fas fa-shield-alt
 order: 3
 ---
