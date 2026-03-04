@@ -7,7 +7,7 @@ order: 3
 ---
 
 # [Ayush Prajapati](https://www.linkedin.com/in/ayush-prajapati-964385254/)
-Offensive Security Researcher | Bug Bounty Hunter | CTF Player  
+Offensive Security Researcher | Bug Bounty Hunter | CTF Player 
 
 I specialize in identifying real-world vulnerabilities in production systems, academic institutions, and public platforms.  
 Below are selected write-ups demonstrating practical exploitation and responsible disclosure.
